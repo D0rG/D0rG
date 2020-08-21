@@ -1,5 +1,3 @@
-### Hi there, I'm DorG 👋
-
 ### Connect with me:
 
 [<img align="left" alt="DorG | telegram" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" />][telegram]
@@ -15,7 +13,8 @@
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/csharp/csharp.svg" />][charp]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg" />][unity]
 [<img align="left" alt="Xamarin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />][xamarin]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/git.svg" />][git]
+[<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][git]
+[<img align="left" alt="GitKraken" width="26px" src="https://camo.githubusercontent.com/630139e3327aad1548b06de1bae0c4699665edad/68747470733a2f2f7777772e6769746b72616b656e2e636f6d2f696d672f6b6569662d67616c6c6572792f67616c6c6572792d6b6569662e6a7067" />][gitKraken]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][github]
 <br />
 
@@ -34,3 +33,4 @@
 [charp]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
 [stack]: https://stackoverflow.com/
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR/
+[gitKraken]: https://www.gitkraken.com/
