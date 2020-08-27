@@ -2,6 +2,7 @@
 
 [<img align="left" alt="DorG | telegram" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" />][telegram]
 [<img align="left" alt="DorG | YouTube" width="30px" src="https://cdn.icon-icons.com/icons2/832/PNG/512/vk_icon-icons.com_66681.png" />][vk]
+[<img align="left" alt="Steam" width="30px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][steam]
 <br />
 
 ### Languages and Tools:
@@ -20,7 +21,7 @@
 
 
 ---
-<img align="left" alt="D0rG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D0rG&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D0rG&show_icons=true&hide_border=true" />
 
 [telegram]: https://t.me/D_o_r_G
 [vk]: https://vk.com/d_o_r_g
@@ -34,3 +35,4 @@
 [stack]: https://stackoverflow.com/
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR/
 [gitKraken]: https://www.gitkraken.com/
+[steam]: https://steamcommunity.com/id/D0rg/
