@@ -21,7 +21,14 @@
 
 
 ---
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D0rG&show_icons=true&hide_border=true" />
+<a href="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing?open">
+<img src="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+<br />
+
+
+---
+<img align="top" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D0rG&show_icons=true&hide_border=true" />
 
 [telegram]: https://t.me/D_o_r_G
 [vk]: https://vk.com/d_o_r_g
