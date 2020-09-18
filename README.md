@@ -5,6 +5,7 @@
 [<img align="left" alt="Steam" width="30px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][steam]
 <br />
 
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" />][vs2019]
