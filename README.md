@@ -28,10 +28,6 @@
 </a>
 <br />
 
-
----
-<img align="top" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D0rG&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
 [telegram]: https://t.me/D_o_r_G
 [vk]: https://vk.com/d_o_r_g
 [vsCode]: https://code.visualstudio.com/
