@@ -23,7 +23,7 @@
 
 
 ---
-Spotify [<img align="midle" alt="DorG | spotify" width="23px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" />][spotify]
+[Spotify][spotify]
 <br />
 <a href="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing?open">
 <img src="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
