@@ -18,7 +18,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][git]
 [<img align="left" alt="GitKraken" width="26px" src="https://camo.githubusercontent.com/630139e3327aad1548b06de1bae0c4699665edad/68747470733a2f2f7777772e6769746b72616b656e2e636f6d2f696d672f6b6569662d67616c6c6572792f67616c6c6572792d6b6569662e6a7067" />][gitKraken]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://fitsmallbusiness.com/wp-content/uploads/2018/03/KanbanFlow-icon.png" />][kanban]
 <br />
 
 
@@ -43,5 +42,4 @@
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR/
 [gitKraken]: https://www.gitkraken.com/
 [steam]: https://steamcommunity.com/id/D0rg/
-[kanban]: https://kanbanflow.com/
 [spotify]: https://open.spotify.com/user/9c0tr900ev5zza2v84ae1b74k?si=2pX2ejBwQGWj2htx0FFACg
