@@ -11,7 +11,6 @@
 [<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" />][vs2019]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />][vsCode]
 [<img align="left" alt="stackoverflow" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/stackoverflow_icon-icons.com_62748.png" />][stack]
-[<img align="left" alt="SteamVR" width="26px" src="https://cdn.steamgriddb.com/logo_thumb/14f2ebeab937ca128186e7ba876faef9.png" />][steamVR]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/csharp/csharp.svg" />][charp]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg" />][unity]
 [<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][git]
@@ -37,7 +36,6 @@
 [unity]: https://unity.com
 [charp]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
 [stack]: https://stackoverflow.com/
-[steamVR]: https://store.steampowered.com/app/250820/SteamVR/
 [gitKraken]: https://www.gitkraken.com/
 [steam]: https://steamcommunity.com/id/D0rg/
 [spotify]: https://open.spotify.com/user/9c0tr900ev5zza2v84ae1b74k?si=2pX2ejBwQGWj2htx0FFACg
