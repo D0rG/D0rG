@@ -1,32 +1,32 @@
 ### Connect with me:
 
-[<img align="left" alt="DorG | telegram" width="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" />][telegram]
-[<img align="left" alt="DorG | YouTube" width="30px" src="https://cdn.icon-icons.com/icons2/832/PNG/512/vk_icon-icons.com_66681.png" />][vk]
-[<img align="left" alt="Steam" width="30px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][steam]
-<br />
+[<img align="left" alt="DorG | telegram" width="40px" src="icon/telegram.png" />][telegram]
+[<img align="left" alt="DorG | vk" width="40px" src="icon/vk.png" />][vk]
+[<img align="left" alt="DorG | steam" width="40px" src="icon/steam.png" />][steam]
+<br /><br />
 
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png" />][vs2019]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />][vsCode]
-[<img align="left" alt="stackoverflow" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/stackoverflow_icon-icons.com_62748.png" />][stack]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/csharp/csharp.svg" />][charp]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg" />][unity]
-[<img align="left" alt="hololens" width="30px" src="icon/hololens.png" />][hololens]
-[<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][git]
-[<img align="left" alt="GitKraken" width="26px" src="https://camo.githubusercontent.com/630139e3327aad1548b06de1bae0c4699665edad/68747470733a2f2f7777772e6769746b72616b656e2e636f6d2f696d672f6b6569662d67616c6c6572792f67616c6c6572792d6b6569662e6a7067" />][gitKraken]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][github]
-<br />
-
+[<img align="left" alt="Visual Studio 2019" width="40px" src="icon/visual_studio.png" />][vs2019]
+[<img align="left" alt="Visual Studio Code" width="40px" src="icon/visual_studio_code.png" />][vsCode]
+[<img align="left" alt="stackoverflow" width="40px" src="icon/stackoverflow.png" />][stack]
+[<img align="left" alt=".net" width="40px" src="icon/dotnet.png" />][dotnet]
+[<img align="left" alt="C#" width="40px" src="icon/csharp.png" />][charp]
+[<img align="left" alt="Unity" width="40px" src="icon/unity.png" />][unity]
+[<img align="left" alt="hololens" width="40px" src="icon/hololens.png" />][hololens]
+[<img align="left" alt="Git" width="40px" src="icon/git.png" />][git]
+[<img align="left" alt="GitKraken" width="40px" src="icon/gitkraken.png" />][gitKraken]
+[<img align="left" alt="GitHub" width="40px" src="icon/github.png" />][github]
+<br /><br />
+  
 
 ---
-[Spotify][spotify]
-<br />
+<p align="center"> 
 <a href="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing?open">
 <img src="https://now-playing-profile-git-master.d0rg.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-<br />
+</p> 
 
 [telegram]: https://t.me/D_o_r_G
 [vk]: https://vk.com/d_o_r_g
@@ -41,3 +41,4 @@
 [steam]: https://steamcommunity.com/id/D0rg/
 [spotify]: https://open.spotify.com/user/9c0tr900ev5zza2v84ae1b74k?si=2pX2ejBwQGWj2htx0FFACg
 [hololens]:https://github.com/microsoft/MixedRealityToolkit-Unity
+[dotnet]:https://dotnet.microsoft.com/
